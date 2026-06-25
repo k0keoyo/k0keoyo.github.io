@@ -1,0 +1,310 @@
+---
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Whereisk0Shl</title>
+  <link>https://whereisk0shl.top/</link>
+  <description>Whereisk0Shl</description>
+  <item>
+    <title>A trick, the story of CVE-2024-26230</title>
+    <link>https://whereisk0shl.top/post/A trick, the story of CVE-2024-26230/</link>
+    <guid>https://whereisk0shl.top/post/A trick, the story of CVE-2024-26230/</guid>
+    <pubDate>Wed, 10 Apr 2024 17:43:24 +0800</pubDate>
+  </item>
+  <item>
+    <title>Isolate me from sandbox - Explore elevation of privilege of CNG Key Isolation</title>
+    <link>https://whereisk0shl.top/post/Isolate me from sandbox - Explore elevation of privilege of CNG Key Isolation/</link>
+    <guid>https://whereisk0shl.top/post/Isolate me from sandbox - Explore elevation of privilege of CNG Key Isolation/</guid>
+    <pubDate>Fri, 01 Sep 2023 19:18:04 +0800</pubDate>
+  </item>
+  <item>
+    <title>Break me out of sandbox in old pipe - CVE-2022-22715 Windows Dirty Pipe</title>
+    <link>https://whereisk0shl.top/post/Break me out of sandbox in old pipe - CVE-2022-22715 Windows Dirty Pipe/</link>
+    <guid>https://whereisk0shl.top/post/Break me out of sandbox in old pipe - CVE-2022-22715 Windows Dirty Pipe/</guid>
+    <pubDate>Thu, 25 Aug 2022 11:09:53 +0800</pubDate>
+  </item>
+  <item>
+    <title>The Story Of CVE-2021-1648</title>
+    <link>https://whereisk0shl.top/post/The_story_of_CVE_2021_1648/</link>
+    <guid>https://whereisk0shl.top/post/The_story_of_CVE_2021_1648/</guid>
+    <pubDate>Wed, 13 Jan 2021 10:29:43 +0800</pubDate>
+  </item>
+  <item>
+    <title>StorSvc writeup and introduction about my analysis script</title>
+    <link>https://whereisk0shl.top/post/StorSvc_writeup_and_introduction_about_my_analysis_script/</link>
+    <guid>https://whereisk0shl.top/post/StorSvc_writeup_and_introduction_about_my_analysis_script/</guid>
+    <pubDate>Mon, 27 Jul 2020 14:39:00 +0800</pubDate>
+  </item>
+  <item>
+    <title>Segment Heap的简单分析和Windbg Extension</title>
+    <link>https://whereisk0shl.top/post/segment_heap_ext/</link>
+    <guid>https://whereisk0shl.top/post/segment_heap_ext/</guid>
+    <pubDate>Fri, 10 Jul 2020 09:56:03 +0800</pubDate>
+  </item>
+  <item>
+    <title>漏洞说明</title>
+    <link>https://whereisk0shl.top/post/VSFTPD v2.3.4后门分析/</link>
+    <guid>https://whereisk0shl.top/post/VSFTPD v2.3.4后门分析/</guid>
+    <pubDate>Mon, 10 Feb 2020 21:24:37 +0800</pubDate>
+  </item>
+  <item>
+    <title>Translate AnC Attack</title>
+    <link>https://whereisk0shl.top/Translate-AnC-Attack.html</link>
+    <guid>https://whereisk0shl.top/Translate-AnC-Attack.html</guid>
+    <pubDate>Mon, 10 Feb 2020 21:24:36 +0800</pubDate>
+  </item>
+  <item>
+    <title>漏洞说明</title>
+    <link>https://whereisk0shl.top/post/Proftpd-1.3.3c后门分析/</link>
+    <guid>https://whereisk0shl.top/post/Proftpd-1.3.3c后门分析/</guid>
+    <pubDate>Mon, 10 Feb 2020 21:24:35 +0800</pubDate>
+  </item>
+  <item>
+    <title>NCSTISC Linux Kernel pwn450 writeup</title>
+    <link>https://whereisk0shl.top/NCSTISC%20Linux%20Kernel%20pwn450%20writeup.html</link>
+    <guid>https://whereisk0shl.top/NCSTISC%20Linux%20Kernel%20pwn450%20writeup.html</guid>
+    <pubDate>Mon, 10 Feb 2020 21:24:35 +0800</pubDate>
+  </item>
+  <item>
+    <title>ret sync introduction how to use</title>
+    <link>https://whereisk0shl.top/ret-sync-introduction-how-to-use.html</link>
+    <guid>https://whereisk0shl.top/ret-sync-introduction-how-to-use.html</guid>
+    <pubDate>Mon, 10 Feb 2020 21:24:35 +0800</pubDate>
+  </item>
+  <item>
+    <title>Smbv3 BSOD Vulnerability Analysis</title>
+    <link>https://whereisk0shl.top/Smbv3-BSOD-Vulnerability-Analysis.html</link>
+    <guid>https://whereisk0shl.top/Smbv3-BSOD-Vulnerability-Analysis.html</guid>
+    <pubDate>Mon, 10 Feb 2020 21:24:35 +0800</pubDate>
+  </item>
+  <item>
+    <title>ssctf pwn450 windows kernel exploitation writeup</title>
+    <link>https://whereisk0shl.top/ssctf_pwn450_windows_kernel_exploitation_writeup.html</link>
+    <guid>https://whereisk0shl.top/ssctf_pwn450_windows_kernel_exploitation_writeup.html</guid>
+    <pubDate>Mon, 10 Feb 2020 21:24:35 +0800</pubDate>
+  </item>
+  <item>
+    <title>[质量局!!]HITB GSEC CTF Win Pwn解题全记录之babystack</title>
+    <link>https://whereisk0shl.top/post/hitb_gsec_ctf_babystack_writeup/</link>
+    <guid>https://whereisk0shl.top/post/hitb_gsec_ctf_babystack_writeup/</guid>
+    <pubDate>Mon, 10 Feb 2020 21:24:34 +0800</pubDate>
+  </item>
+  <item>
+    <title>漏洞说明</title>
+    <link>https://whereisk0shl.top/post/HTML Help Workshop .SEH本地代码执行漏洞/</link>
+    <guid>https://whereisk0shl.top/post/HTML Help Workshop .SEH本地代码执行漏洞/</guid>
+    <pubDate>Mon, 10 Feb 2020 21:24:34 +0800</pubDate>
+  </item>
+  <item>
+    <title>漏洞说明</title>
+    <link>https://whereisk0shl.top/post/JCG路由命令执行漏洞分析/</link>
+    <guid>https://whereisk0shl.top/post/JCG路由命令执行漏洞分析/</guid>
+    <pubDate>Mon, 10 Feb 2020 21:24:34 +0800</pubDate>
+  </item>
+  <item>
+    <title>漏洞说明</title>
+    <link>https://whereisk0shl.top/post/LShell%3C=0.9.15远程代码执行漏洞/</link>
+    <guid>https://whereisk0shl.top/post/LShell%3C=0.9.15远程代码执行漏洞/</guid>
+    <pubDate>Mon, 10 Feb 2020 21:24:34 +0800</pubDate>
+  </item>
+  <item>
+    <title>hevd kernel exploitation uninitialized stack &amp; heap</title>
+    <link>https://whereisk0shl.top/hevd-kernel-exploitation-uninitialized-stack-%26-heap.html</link>
+    <guid>https://whereisk0shl.top/hevd-kernel-exploitation-uninitialized-stack-%26-heap.html</guid>
+    <pubDate>Mon, 10 Feb 2020 21:24:34 +0800</pubDate>
+  </item>
+  <item>
+    <title>HEVD with SMEP bypass</title>
+    <link>https://whereisk0shl.top/HEVD-with-SMEP-bypass.html</link>
+    <guid>https://whereisk0shl.top/HEVD-with-SMEP-bypass.html</guid>
+    <pubDate>Mon, 10 Feb 2020 21:24:34 +0800</pubDate>
+  </item>
+  <item>
+    <title>hitb gsec ctf babyshellcode writeup</title>
+    <link>https://whereisk0shl.top/hitb_gsec_ctf_babyshellcode_writeup.html</link>
+    <guid>https://whereisk0shl.top/hitb_gsec_ctf_babyshellcode_writeup.html</guid>
+    <pubDate>Mon, 10 Feb 2020 21:24:34 +0800</pubDate>
+  </item>
+  <item>
+    <title>cve 2017 0037 ie11&amp;edge type confusion</title>
+    <link>https://whereisk0shl.top/cve_2017_0037_ie11%26edge_type_confusion.html</link>
+    <guid>https://whereisk0shl.top/cve_2017_0037_ie11%26edge_type_confusion.html</guid>
+    <pubDate>Mon, 10 Feb 2020 21:24:33 +0800</pubDate>
+  </item>
+  <item>
+    <title>dark composition exploit in ring0</title>
+    <link>https://whereisk0shl.top/dark%20composition%20exploit%20in%20ring0.html</link>
+    <guid>https://whereisk0shl.top/dark%20composition%20exploit%20in%20ring0.html</guid>
+    <pubDate>Mon, 10 Feb 2020 21:24:33 +0800</pubDate>
+  </item>
+  <item>
+    <title>firefox uaf cve 2016 9899 fck rop gadget</title>
+    <link>https://whereisk0shl.top/firefox-uaf-cve-2016-9899-fck-rop-gadget.html</link>
+    <guid>https://whereisk0shl.top/firefox-uaf-cve-2016-9899-fck-rop-gadget.html</guid>
+    <pubDate>Mon, 10 Feb 2020 21:24:33 +0800</pubDate>
+  </item>
+  <item>
+    <title>cve 2017 7269 iis6 interesting exploit</title>
+    <link>https://whereisk0shl.top/cve-2017-7269-iis6-interesting-exploit.html</link>
+    <guid>https://whereisk0shl.top/cve-2017-7269-iis6-interesting-exploit.html</guid>
+    <pubDate>Mon, 10 Feb 2020 21:24:31 +0800</pubDate>
+  </item>
+  <item>
+    <title>A simple story of DsSvc, &quot;Live and Die&quot;</title>
+    <link>https://whereisk0shl.top/post/a-simple-story-of-DsSvc/</link>
+    <guid>https://whereisk0shl.top/post/a-simple-story-of-DsSvc/</guid>
+    <pubDate>Mon, 10 Feb 2020 21:24:29 +0800</pubDate>
+  </item>
+  <item>
+    <title>漏洞说明</title>
+    <link>https://whereisk0shl.top/post/[博客搬家啦!]CVE-2011-3478 Symantec pcAnywhere远程代码执行漏洞/</link>
+    <guid>https://whereisk0shl.top/post/[博客搬家啦!]CVE-2011-3478 Symantec pcAnywhere远程代码执行漏洞/</guid>
+    <pubDate>Mon, 10 Feb 2020 21:22:16 +0800</pubDate>
+  </item>
+  <item>
+    <title>漏洞说明</title>
+    <link>https://whereisk0shl.top/post/[CVE-2013-0658]Schneider Electirc Accutech工控服务堆溢出漏洞分析/</link>
+    <guid>https://whereisk0shl.top/post/[CVE-2013-0658]Schneider Electirc Accutech工控服务堆溢出漏洞分析/</guid>
+    <pubDate>Mon, 10 Feb 2020 21:22:15 +0800</pubDate>
+  </item>
+  <item>
+    <title>漏洞说明</title>
+    <link>https://whereisk0shl.top/post/[CVE-2016-0111]IE SetAttributeStringAndPointer释放后重用漏洞分析[MS16-023]/</link>
+    <guid>https://whereisk0shl.top/post/[CVE-2016-0111]IE SetAttributeStringAndPointer释放后重用漏洞分析[MS16-023]/</guid>
+    <pubDate>Mon, 10 Feb 2020 21:22:15 +0800</pubDate>
+  </item>
+  <item>
+    <title>hitb gsec ctf babyshellcode writeup</title>
+    <link>https://whereisk0shl.top/20170826/hitb_gsec_ctf_babyshellcode_writeup.html</link>
+    <guid>https://whereisk0shl.top/20170826/hitb_gsec_ctf_babyshellcode_writeup.html</guid>
+    <pubDate>Mon, 10 Feb 2020 21:21:58 +0800</pubDate>
+  </item>
+  <item>
+    <title>test my static rep0rt</title>
+    <link>https://whereisk0shl.top/20170120/test_my_static_rep0rt.html</link>
+    <guid>https://whereisk0shl.top/20170120/test_my_static_rep0rt.html</guid>
+    <pubDate>Mon, 10 Feb 2020 21:21:44 +0800</pubDate>
+  </item>
+  <item>
+    <title>Microsoft Hardlink缓解机制简单分析</title>
+    <link>https://whereisk0shl.top/post/2019-06-08/</link>
+    <guid>https://whereisk0shl.top/post/2019-06-08/</guid>
+    <pubDate>Sat, 08 Jun 2019 00:00:00 +0800</pubDate>
+  </item>
+  <item>
+    <title>DfMarshal系列漏洞CVE-2018-8550调试记录</title>
+    <link>https://whereisk0shl.top/post/2019-05-11/</link>
+    <guid>https://whereisk0shl.top/post/2019-05-11/</guid>
+    <pubDate>Sat, 11 May 2019 00:00:00 +0800</pubDate>
+  </item>
+  <item>
+    <title>[CVE-2016-5108]VideoLAN VLC Media Player 2.2.1越界写拒绝服务漏洞</title>
+    <link>https://whereisk0shl.top/post/2019-03-09-01/</link>
+    <guid>https://whereisk0shl.top/post/2019-03-09-01/</guid>
+    <pubDate>Sat, 09 Mar 2019 00:00:00 +0800</pubDate>
+  </item>
+  <item>
+    <title>写在98篇漏洞分析之后---2019.03.09</title>
+    <link>https://whereisk0shl.top/post/2019-03-09/</link>
+    <guid>https://whereisk0shl.top/post/2019-03-09/</guid>
+    <pubDate>Sat, 09 Mar 2019 00:00:00 +0800</pubDate>
+  </item>
+  <item>
+    <title>Internet Download Accelerator 6.10.1.1527 远程代码执行漏洞</title>
+    <link>https://whereisk0shl.top/post/2019-03-02/</link>
+    <guid>https://whereisk0shl.top/post/2019-03-02/</guid>
+    <pubDate>Sat, 02 Mar 2019 00:00:00 +0800</pubDate>
+  </item>
+  <item>
+    <title>ConQuest DICOM Server 1.4.17d 远程代码执行漏洞</title>
+    <link>https://whereisk0shl.top/post/2019-02-24/</link>
+    <guid>https://whereisk0shl.top/post/2019-02-24/</guid>
+    <pubDate>Sun, 24 Feb 2019 00:00:00 +0800</pubDate>
+  </item>
+  <item>
+    <title>Serva 3.0.0 HTTP Server整数溢出远程拒绝服务漏洞</title>
+    <link>https://whereisk0shl.top/post/2019-02-16/</link>
+    <guid>https://whereisk0shl.top/post/2019-02-16/</guid>
+    <pubDate>Sat, 16 Feb 2019 00:00:00 +0800</pubDate>
+  </item>
+  <item>
+    <title>[破五～]Dual DHCP DNS Server 7.29远程拒绝服务漏洞</title>
+    <link>https://whereisk0shl.top/post/2019-02-09/</link>
+    <guid>https://whereisk0shl.top/post/2019-02-09/</guid>
+    <pubDate>Sat, 09 Feb 2019 00:00:00 +0800</pubDate>
+  </item>
+  <item>
+    <title>[拜年啦！]NetCat【nc】 0.7.1 远程拒绝服务漏洞</title>
+    <link>https://whereisk0shl.top/post/2019-02-04/</link>
+    <guid>https://whereisk0shl.top/post/2019-02-04/</guid>
+    <pubDate>Mon, 04 Feb 2019 00:00:00 +0800</pubDate>
+  </item>
+  <item>
+    <title>Easy Internet Sharing Proxy Server 2.2整数溢出远程代码执行漏洞</title>
+    <link>https://whereisk0shl.top/post/2019-01-26/</link>
+    <guid>https://whereisk0shl.top/post/2019-01-26/</guid>
+    <pubDate>Sat, 26 Jan 2019 00:00:00 +0800</pubDate>
+  </item>
+  <item>
+    <title>WinaXe 7.7 远程代码执行漏洞</title>
+    <link>https://whereisk0shl.top/post/2019-01-19/</link>
+    <guid>https://whereisk0shl.top/post/2019-01-19/</guid>
+    <pubDate>Sat, 19 Jan 2019 00:00:00 +0800</pubDate>
+  </item>
+  <item>
+    <title>Axessh 4.2拒绝服务漏洞</title>
+    <link>https://whereisk0shl.top/post/2019-01-13/</link>
+    <guid>https://whereisk0shl.top/post/2019-01-13/</guid>
+    <pubDate>Sun, 13 Jan 2019 00:00:00 +0800</pubDate>
+  </item>
+  <item>
+    <title>uSQLite1.0.0远程代码执行漏洞</title>
+    <link>https://whereisk0shl.top/post/2019-01-06/</link>
+    <guid>https://whereisk0shl.top/post/2019-01-06/</guid>
+    <pubDate>Sun, 06 Jan 2019 00:00:00 +0800</pubDate>
+  </item>
+  <item>
+    <title>[元旦快乐]GNU GTypist 2.9.5-2本地拒绝服务漏洞</title>
+    <link>https://whereisk0shl.top/post/2018-12-31/</link>
+    <guid>https://whereisk0shl.top/post/2018-12-31/</guid>
+    <pubDate>Mon, 31 Dec 2018 00:00:00 +0800</pubDate>
+  </item>
+  <item>
+    <title>Network Scanner 4.0.0本地代码执行漏洞分析</title>
+    <link>https://whereisk0shl.top/post/2018-12-22/</link>
+    <guid>https://whereisk0shl.top/post/2018-12-22/</guid>
+    <pubDate>Sat, 22 Dec 2018 00:00:00 +0800</pubDate>
+  </item>
+  <item>
+    <title>[CVE-2013-3299]RealPlayer拒绝服务漏洞</title>
+    <link>https://whereisk0shl.top/post/2018-12-15/</link>
+    <guid>https://whereisk0shl.top/post/2018-12-15/</guid>
+    <pubDate>Sat, 15 Dec 2018 00:00:00 +0800</pubDate>
+  </item>
+  <item>
+    <title>LanSpy 2.0.0.155本地代码执行漏洞</title>
+    <link>https://whereisk0shl.top/post/2018-12-08/</link>
+    <guid>https://whereisk0shl.top/post/2018-12-08/</guid>
+    <pubDate>Sat, 08 Dec 2018 00:00:00 +0800</pubDate>
+  </item>
+  <item>
+    <title>[CVE-2016-2776]BIND 9 ‘buffer.c’拒绝服务漏洞</title>
+    <link>https://whereisk0shl.top/post/2018-12-01/</link>
+    <guid>https://whereisk0shl.top/post/2018-12-01/</guid>
+    <pubDate>Sat, 01 Dec 2018 00:00:00 +0800</pubDate>
+  </item>
+  <item>
+    <title>Microsoft Internet Explorer 11.0.9600.18482 - Use After Free</title>
+    <link>https://whereisk0shl.top/post/2018-11-24/</link>
+    <guid>https://whereisk0shl.top/post/2018-11-24/</guid>
+    <pubDate>Sat, 24 Nov 2018 00:00:00 +0800</pubDate>
+  </item>
+  <item>
+    <title>WDK 8.1 kill.exe内存破坏漏洞</title>
+    <link>https://whereisk0shl.top/post/2018-11-17/</link>
+    <guid>https://whereisk0shl.top/post/2018-11-17/</guid>
+    <pubDate>Sat, 17 Nov 2018 00:00:00 +0800</pubDate>
+  </item>
+</channel>
+</rss>

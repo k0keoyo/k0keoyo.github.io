@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title | escape }} - {% endif %}{{ site.title | escape }}</title>
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="/feed.xml">
+</head>
+<body>
+  <header class="site-header">
+    <a class="site-title" href="/">{{ site.title | escape }}</a>
+    <nav>
+      <a href="/archive/">Archive</a>
+      <a href="/feed.xml">RSS</a>
+    </nav>
+  </header>
+  <main class="page-content">
+    {{ content }}
+  </main>
+</body>
+</html>

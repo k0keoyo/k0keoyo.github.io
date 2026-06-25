@@ -1,0 +1,42 @@
+- title: "Translate AnC Attack"
+  url: "/Translate-AnC-Attack.html"
+  date: 2020-02-10
+- title: "NCSTISC Linux Kernel pwn450 writeup"
+  url: "/NCSTISC%20Linux%20Kernel%20pwn450%20writeup.html"
+  date: 2020-02-10
+- title: "ret sync introduction how to use"
+  url: "/ret-sync-introduction-how-to-use.html"
+  date: 2020-02-10
+- title: "Smbv3 BSOD Vulnerability Analysis"
+  url: "/Smbv3-BSOD-Vulnerability-Analysis.html"
+  date: 2020-02-10
+- title: "ssctf pwn450 windows kernel exploitation writeup"
+  url: "/ssctf_pwn450_windows_kernel_exploitation_writeup.html"
+  date: 2020-02-10
+- title: "hevd kernel exploitation uninitialized stack & heap"
+  url: "/hevd-kernel-exploitation-uninitialized-stack-%26-heap.html"
+  date: 2020-02-10
+- title: "HEVD with SMEP bypass"
+  url: "/HEVD-with-SMEP-bypass.html"
+  date: 2020-02-10
+- title: "hitb gsec ctf babyshellcode writeup"
+  url: "/hitb_gsec_ctf_babyshellcode_writeup.html"
+  date: 2020-02-10
+- title: "cve 2017 0037 ie11&edge type confusion"
+  url: "/cve_2017_0037_ie11%26edge_type_confusion.html"
+  date: 2020-02-10
+- title: "dark composition exploit in ring0"
+  url: "/dark%20composition%20exploit%20in%20ring0.html"
+  date: 2020-02-10
+- title: "firefox uaf cve 2016 9899 fck rop gadget"
+  url: "/firefox-uaf-cve-2016-9899-fck-rop-gadget.html"
+  date: 2020-02-10
+- title: "cve 2017 7269 iis6 interesting exploit"
+  url: "/cve-2017-7269-iis6-interesting-exploit.html"
+  date: 2020-02-10
+- title: "hitb gsec ctf babyshellcode writeup"
+  url: "/20170826/hitb_gsec_ctf_babyshellcode_writeup.html"
+  date: 2020-02-10
+- title: "test my static rep0rt"
+  url: "/20170120/test_my_static_rep0rt.html"
+  date: 2020-02-10

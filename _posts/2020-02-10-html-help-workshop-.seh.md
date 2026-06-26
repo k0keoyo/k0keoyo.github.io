@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "漏洞说明"
+title: "HTML Help Workshop .SEH 本地代码执行漏洞"
+short_title: "HTML Help Workshop .SEH LCE"
 date: 2020-02-10 21:24:34 +0800
 permalink: "/post/HTML Help Workshop .SEH本地代码执行漏洞/"
 ---

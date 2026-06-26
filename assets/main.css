@@ -72,6 +72,15 @@ a:active {
   font-size: 13px;
 }
 
+.side-nav {
+  display: flex;
+  justify-content: center;
+  gap: 14px;
+  flex-wrap: wrap;
+  margin: 24px 30px 0;
+  font-size: 13px;
+}
+
 .site-footer {
   clear: both;
   width: 100%;
@@ -94,27 +103,9 @@ a:active {
   margin-left: 35%;
 }
 
-.page-top {
-  width: 65%;
-  position: fixed;
-  right: 0;
-  top: 0;
-  z-index: 3;
-  background: #fff;
-  border-bottom: 1px solid #eee;
-}
-
-.page-top nav {
-  display: flex;
-  justify-content: flex-end;
-  gap: 24px;
-  padding: 16px 34px;
-  font-size: 13px;
-}
-
 .content {
   width: auto;
-  padding-top: 60px;
+  padding-top: 30px;
 }
 
 .post {
@@ -335,8 +326,8 @@ td {
     margin-top: 8px;
   }
 
-  .page-top {
-    width: 100%;
+  .side-nav {
+    margin-top: 18px;
   }
 
   .main {
@@ -349,7 +340,7 @@ td {
     position: absolute;
     z-index: 2;
     margin-top: 360px;
-    padding-top: 60px;
+    padding-top: 30px;
     background: #fff;
   }
 

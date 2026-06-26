@@ -1,12 +1,12 @@
 ---
 layout: default
 ---
-<article class="post">
-  <header class="post-header">
+<article class="post post-page">
+  <header class="post-title">
     <h1>{{ page.title | escape }}</h1>
     <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y-%m-%d" }}</time>
   </header>
-  <div class="post-content">
+  <div class="post-content markdown">
     {{ content }}
   </div>
 </article>

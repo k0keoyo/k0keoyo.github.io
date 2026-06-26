@@ -47,14 +47,8 @@ a:active {
   padding: 210px 36px 0;
 }
 
-.site-avatar {
-  width: 127px;
-  height: 127px;
-  object-fit: cover;
-}
-
 .logo-title h1 {
-  margin: 20px 0 10px;
+  margin: 0 0 10px;
   line-height: 1;
 }
 
@@ -340,11 +334,6 @@ td {
 
   .logo-title {
     padding-top: 86px;
-  }
-
-  .site-avatar {
-    width: 96px;
-    height: 96px;
   }
 
   .logo-title h1 a {

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: From context_handle to type confusion
-short_title: context_handle to type confusion
+short_title: From context_handle to type confusion
 date: 2026-06-26 10:27:16 +0800
 permalink: "/post/From context_handle to type confusion/"
 tags: []
